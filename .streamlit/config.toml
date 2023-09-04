@@ -1,0 +1,9 @@
+[theme]
+backgroundColor="#272323"
+secondaryBackgroundColor="#234c9e"
+textColor="#ceab6c"
+
+
+[background]
+# Specify the URL of your background image
+image = "https://www.crowdstrike.com/wp-content/uploads/2020/11/Blog_1060x698-25-1.jpg"
