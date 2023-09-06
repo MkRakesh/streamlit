@@ -79,15 +79,6 @@ if input6 > 0 or input7 > 0:
         st.write("Prediction:", prediction)
 
 
-# In[43]:
-
-
-# x=['Shooting in Dubai by Group C with Bladed Weapons claimed by Group D. 5 are injured and 19 are deceased']
-# x = tf.constant(x, dtype=tf.string)
-# loaded_model([x])
-
-
-# In[ ]:
 
 
 
